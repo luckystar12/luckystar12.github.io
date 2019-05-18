@@ -34,7 +34,7 @@ window.worksData = [
   },
   {
     type: 'normal',
-    title: '<a target="_blank" href="https://www.ifanr.com">华为手表 HUAWEI Watch GT 不插电生活</a>',
+    title: '<a target="_blank" href="https://www.ifanr.com/api/ifanr-special/huawei-watch-gt">华为手表 HUAWEI Watch GT 不插电生活</a>',
     date: '2018.12',
     images: [
       {
@@ -50,7 +50,7 @@ window.worksData = [
   },
   {
     type: 'normal',
-    title: '京东双十一「星际体验官」',
+    title: '<a target="_blank" href="https://www.ifanr.com/api/ifanr-special/jd">京东双十一「星际体验官」</a>',
     date: '2018.11',
     images: [
       {
@@ -66,8 +66,8 @@ window.worksData = [
   },
   {
     type: 'normal',
-    title: '惠普「共三期」',
-    date: '2018.09',
+    title: '惠普「共三期」(Web 端、移动端)',
+    date: '2018.09-2018.11',
     images: [
       {
         type: 'vertical',
@@ -80,7 +80,7 @@ window.worksData = [
         url: './images/index/hp-2.png',
       },
     ],
-    content: '此商务项目承接惠普共三期的专题业务',
+    content: '此商务项目承接惠普共三期的专题业务, 第一期：https://www.ifanr.com/api/ifanr-special/zhizaozhe; 第二期：https://www.ifanr.com/api/ifanr-special/hp2; 第三期：https://www.ifanr.com/api/ifanr-special/hp3',
     responsibility: '亮点：web 端采取了视觉视差实现页面滚动，解决了不同浏览器鼠标监听事件兼容性（event.wheelData 或 event.detail）、滚动值差异；移动端采取竖页翻页',
   },
   {
