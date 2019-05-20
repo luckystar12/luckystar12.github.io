@@ -97,4 +97,6 @@ ul.timeline > li:before {
 
 .responsibility {
   color: #7d7d7d;
+  border-left: 2px solid red;
+  padding-left: 12px;
 }
