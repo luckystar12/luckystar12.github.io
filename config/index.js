@@ -1,7 +1,24 @@
 window.worksData = [
   {
     type: 'normal',
-    title: '糖纸小程序(处于上线前外测阶段)',
+    title: '<a target="_blank" href="https://www.ifanr.com/api/ifanr-special/smart-commercial-center">微信支付-智慧商圈（请用移动端打开）</a>',
+    date: '2019.05',
+    images: [
+      {
+        type: 'vertical',
+        url: './images/index/commercial1.png',
+      },
+      {
+        type: 'vertical',
+        url: './images/index/commercial2.png',
+      },
+    ],
+    content: '该智慧商圈 H5 主要是融合了多个图片序列帧、BGM、视频、大咖语音、大咖文章等内容形式展示和宣传智慧商圈的趋势。技术点：① 解决图片序列帧丢帧或者卡顿、更流畅的实现方式、批量图片的并发请求和按顺序处理图片。涉及到优化的层面：控制并发请求；出于浏览器对同一个主机会限制请求次数，可以考虑把图片放在不同的 cdn 服务器上。② 视频、音频、页面 BGM 间的相互牵制和影响关系； ③解决文章阅读弹窗滚动兼容性问题和悬浮定位问题等',
+    responsibility: '责任描述：负责所有',
+  },
+  {
+    type: 'normal',
+    title: '糖纸小程序',
     date: '2019.03-至今',
     images: [
       {
